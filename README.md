@@ -1,1 +1,1 @@
-# practice_rust
+# test-project in rust
